@@ -8,7 +8,7 @@
       <a href="#" class="menu-icon">{% include menu-icon.svg %}</a>
       <ul class="trigger">
         <li>
-          <a class="page-link" href="{{ site.baseurl }}/Stats">Statistics</a>
+          <a class="page-link" href="{{ site.baseurl }}/Philosophy">Philosophy</a>
           <ul class="sub">
             {% for p in site.pages %} 
               {% if p.category == 'stats' %}
@@ -28,7 +28,7 @@
         </li>
         
         <li>
-          <a class="page-link" href="{{ site.baseurl }}/R">R</a>
+          <a class="page-link" href="{{ site.baseurl }}/underGraduate">under/graduate</a>
           <ul class="sub">
             {% for p in site.pages %} {% if p.category == 'r' %}
             <li><a href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a></li>
@@ -37,7 +37,7 @@
         </li>
         
         <li>
-          <a class="page-link" href="{{ site.baseurl }}/Hubs">Hubs</a>
+          <a class="page-link" href="{{ site.baseurl }}/Literature">Literature</a>
           <ul class="sub">
             {% for p in site.pages %} {% if p.category == 'hubs' %}
             <li><a href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a></li>
@@ -45,23 +45,6 @@
           </ul>
         </li>
         
-        <li>
-          <a class="page-link" href="{{ site.baseurl }}/Checklists">Checklists</a>
-          <ul class="sub">
-            {% for p in site.pages %} {% if p.category == 'checklists' %}
-            <li><a href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a></li>
-            {% endif %} {% endfor %}
-          </ul>
-        </li>
-        
-        <li>
-          <a class="page-link" href="{{ site.baseurl }}/Glossary">Glossary</a>
-          <ul class="sub">
-            {% for p in site.pages %} {% if p.category == 'concepts' %}
-            <li><a href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a></li>
-            {% endif %} {% endfor %}
-          </ul>
-        </li>
       </ul>
     </nav>
 
