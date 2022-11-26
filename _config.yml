@@ -1,9 +1,9 @@
 # Site settings
 title: Ecology Curriculum Manual
-email: info@biom.uni-freiburg.de
+email: carsten.dormann@biom.uni-freiburg.de
 description: Scoping and detailing the approach to the Ecology Curriculum
 baseurl: /EcologyCurriculumManual
-url: http://biometry.github.io/EcologyCurriculumManual/
+url: https://biometry.github.io/EcologyCurriculumManual/
 username: biometry
 
 # Build settings

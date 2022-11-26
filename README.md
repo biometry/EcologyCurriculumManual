@@ -4,7 +4,9 @@ title: Welcome to the Ecology Curriculum Manual
 permalink: /index.html
 ---
 
-This is the landing page for an attempt to write a manual for setting up an Ecology Curriculum.
+This is the landing page for an attempt to write a manual for setting up an Ecology Curriculum. It may have different entries, but for now it is only
+
+* [the manual itself](http://biometry.github.io/EcologyCurriculumManual/Manual/)
 
 The curriculum itself shall live on Wikipedia, but there are many reasons and discussion to be had, *why* some elements are as they are. The result of these discussions are to be summarised in a manual, and thus here.
 
