@@ -23,6 +23,8 @@ Ecology textbooks are thick. This is partly because the range of ecological topi
   - **Applied case studies should be relegated to optional classes, unless as illustration of underlying processes.** (Ecological applications may be very important, e.g. in conservation, agroecology or forestry, but for teaching they would be either motivation or illustration. If a proposed treatment works but cannot be linked back to ecological laws, then what are students to learn from this?)
   - **Language should be value-free and measured.** (Particularly conservation topics may use hyperbolic terms, such as "climate crisis" or "alien species". That is not the language of science, and should be kept to a minimum.)
   - **Kill your darlings.** ([Keep text concise and succinct](https://www.masterclass.com/articles/what-does-it-mean-to-kill-your-darlings). Avoid reminiscing rambling and historical excursion.)
+  - Use British English. In particular, punctuation serves to improve readability, no matter what the rules are. (It's like driving on the right or left hand side; there is no right or wrong, but everybody should do the same. BE is taught in more countries than AE, but probably more publications are in AE than in BE.)
+  
 
 
 ### Decisions on the level of student courses
@@ -40,6 +42,7 @@ Making sure that contributed material can be used freely by everyone.
 ### Glossary & Definitions
 
   - concept
+  - diversity
   - evidence-based
   - folklore
   - law: a statement about a mechanism that is mostly true 
@@ -66,23 +69,75 @@ Even when relaxing the definition of "law" to allow minor deviations (following 
 
 Ecological laws, or if you prefer: principles, were defined by different ecologists in the past, in particular with an ecosystem perspective (Odum 1953), a population perspective (Hutchinson 1958), to acknowledge their insufficiency as guidance for Ecology (Lawton 1999, O'Hara 2005), or as starting points and elements for deducing ecological theory (Dobbs 2009, Vellend 2016). The literature discussing these different points is diverse and confusing (and possibly confused: Colyvan & Ginsburg 2003; Travasso-Britto et al. 2021).
 
-For the development of a curriculum, it may be useful to start somewhere and move on from there, following the guiding principles articulated in the introduction. With a more pragmatic definition of "law" (Colyvan & Ginsburg 2003), one can start with the 32 laws proposed by Dobbs (2009). These are organised along a somewhat arbitrary but intuitive gradient of strictness and scale:
+For the development of a curriculum, it may be useful to start somewhere and move on from there, following the guiding principles articulated in the introduction. With a more pragmatic definition of "law" (Colyvan & Ginsburg 2003), one can start with the 35 laws[^1] proposed by Dobbs (2009). These are organised along a somewhat arbitrary but intuitive gradient of strictness and scale:
 
-  - Foundations
-    1. Laws from physics, chemistry and mathematics
-    2. Evolution and natural selection
-    3. Dominance of *Homo sapiens*
-  - Fundamental biological laws
-    4. Biological composition
-    5. System openness
-    6. Recycling rates
-  - Physiological constraints of organisms
-    7. All organisms die.
-    8. Energy requirement
-    9. Nutrient cycling requirement
-    10. Maximum metabolic rates
-    11. Water requirement
-    12. Temperature optimum
-  - Behaviour of organisms
+ Foundations:
+ 
+  1. Laws from physics, chemistry and mathematics
+  2. Evolution and natural selection
+  3. Dominance of *Homo sapiens*
+ 
+ Fundamental biological laws:
+ 
+  4. Biological composition
+  5. System openness
+  6. Recycling rates
+ 
+ Physiological constraints of organisms:
+ 
+  7. All organisms die.
+  8. Energy requirement
+  9. Nutrient cycling requirement
+  10. Maximum metabolic rates
+  11. Water requirement
+  12. Temperature optimum
+ 
+ Behaviour of organisms:
 
+  13. Sensory integration
+  14. Predictability of behaviour
 
+ Fundamental properties of populations:
+  
+  15. Conservation of individuals
+  16. Exponential growth
+  17. Limits to growth
+  18. Population stability not determinant
+  19. Extinction probability
+  
+ Laws that arise from evolution
+ 
+  20. Biotic/abiotic interactions
+  21. Evolution affects ecology
+  22. Specialisation
+  23. Irreversibility of extinction
+  
+ Variability and organisms
+ 
+  24. All organisms are unique
+  25. Population, resource and habitat heterogeneity
+  26. Scaling
+  
+ Biotic and abiotic interactions of organisms
+  
+  27. Species interact
+  28. All types of reciprocal interactions are possible
+  29. Diversity of interspecific interactions
+  30. Variance of interspecific interactions
+  31. Competitive exclusion
+  32. Linkage of interactions
+  33. Nonpropagation of interaction chains
+  34. Heterogeneity increases diversity
+  35. Diversity positively correlated with area
+
+Additionally, Dobbs (2009) proposed some "candidate laws":
+
+  1. All organisms have diseases (viral or otherwise).
+  2. Organisms will evolve the ability to tolerate, and likely metabolise, unique organic compounds
+  3. Non-equilibrium nature of life leads to non-equilibrium conditions in ecological systems
+  4. The law of failure *(of other laws)*
+  5. Consumer-resource oscillations as a law of populations
+
+And he lists some law-like principles that are mostly useful, if not laws.
+
+[^1]: To downplay the strictness of a law, we write them as lowercase.
