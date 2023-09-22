@@ -1,0 +1,32 @@
+# Site settings
+title: Ecology Curriculum Manual
+email: carsten.dormann@biom.uni-freiburg.de
+description: Scoping and detailing the approach to the Ecology Curriculum
+baseurl: /EcologyCurriculumManual
+url: https://biometry.github.io/EcologyCurriculumManual/
+username: biometry
+
+# Build settings
+# permalink: pretty
+
+# kramdown options
+kramdown:
+  input: GFM
+
+highlighter: rouge
+
+# Excludes
+exclude: ['*.sublime*', 'Gemfile*', 'feed.xml', '*.Rmd', '*.rmd']
+
+# github gems
+# gems:
+#   - jekyll-mentions
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "page"
+      author: "Carsten Dormann"
